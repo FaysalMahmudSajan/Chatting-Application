@@ -1,5 +1,6 @@
-# OOD-Project-
-Name: Faysal Mahmud
-Id: 221-35-906
-Section: E
-Project : Chatting Application 
+# Project : Chatting Application 
+
+
+![img](ActivityDiagram.png)
+![Alt Text](classDiagram.png)
+
